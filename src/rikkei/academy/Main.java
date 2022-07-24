@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] arg) {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Given a equation ax + b = c");
